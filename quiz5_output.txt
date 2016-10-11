@@ -1,0 +1,13 @@
+Please enter a value of the theCount: 5
+
+1. 1 job offers at the career fair. Ha Ha Ha.
+
+2. 2 job offers at the career fair. Ha Ha Ha.
+
+3. 3 job offers at the career fair. Ha Ha Ha.
+
+4. 4 job offers at the career fair. Ha Ha Ha.
+
+5. 5 job offers at the career fair. Ha Ha Ha.
+
+Program ended with exit code: 0
