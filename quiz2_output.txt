@@ -1,9 +1,0 @@
-Please enter a integer: 14
-Please enter a real number: -89.3467
-
-
-The integer is 14.
-
-The real number is -89.346700.
-
-Program ended with exit code: 0
