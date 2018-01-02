@@ -1,3 +1,0 @@
-There were 3 matching elements in the two arrays.
-
-Program ended with exit code: 0
