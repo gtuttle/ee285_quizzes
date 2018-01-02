@@ -1,2 +1,2 @@
 # ee285_quizzes
-Quiz solutions for EE 285 for Fall 2016.
+Quiz solutions for EE 285.
