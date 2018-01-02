@@ -1,3 +1,0 @@
-There were 4 evens and 6 odds in the original array.
-
-Program ended with exit code: 0
