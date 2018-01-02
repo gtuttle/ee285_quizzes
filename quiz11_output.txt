@@ -1,3 +1,0 @@
-The function returned 234.
-
-Program ended with exit code: 0
