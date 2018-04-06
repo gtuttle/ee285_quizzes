@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-void invertAndNegateArray( double[], int );   //Or double[], either way is fine for a pointer
+void invertAndNegateArray( double[], int );   //Or double*, either way is fine for a pointer
 
 int main( void ){
    
